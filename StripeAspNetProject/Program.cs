@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-StripeConfiguration.ApiKey = "sk_test_51SWiwG3GFN7B7nUjkTlkpQomPamSQS7yYdatzIdWD3phjizTtDpPKUTZHJLrHM17AunJwRVb0TgnAo2NNM6thBE8001ussyZWr";
+StripeConfiguration.ApiKey = "YOUR_SECRET_API_KEY";
 
 var app = builder.Build();
 
@@ -15,4 +15,5 @@ app.UseStaticFiles();
 app.MapControllers();
 
 app.Run();
+
 
