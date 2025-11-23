@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/cancel.html",
+      "PackagePath": "staticwebassets/cancel.html"
+    },
+    {
+      "Id": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
+    },
+    {
+      "Id": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/success.html",
+      "PackagePath": "staticwebassets/success.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.StripeAspNetProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.StripeAspNetProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.StripeAspNetProject.props",
+      "PackagePath": "build\\StripeAspNetProject.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.StripeAspNetProject.props",
+      "PackagePath": "buildMultiTargeting\\StripeAspNetProject.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.StripeAspNetProject.props",
+      "PackagePath": "buildTransitive\\StripeAspNetProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

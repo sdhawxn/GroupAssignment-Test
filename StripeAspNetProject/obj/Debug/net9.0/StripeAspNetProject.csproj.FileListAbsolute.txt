@@ -1,0 +1,80 @@
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/appsettings.Development.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/appsettings.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.staticwebassets.runtime.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.staticwebassets.endpoints.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.deps.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.runtimeconfig.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.pdb
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/Stripe.net.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.csproj.AssemblyReference.cache
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.AssemblyInfoInputs.cache
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.AssemblyInfo.cs
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.csproj.CoreCompileInputs.cache
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/scopedcss/bundle/StripeAspNetProject.styles.css
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/0jzg193k1x-2qmmyz3zui.gz
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/6c9h4d8efr-7z36y9blde.gz
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/lyq2lyiz4w-j6natef9y5.gz
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/j8h4xjljlf-xs6n0zysvc.gz
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.build.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.development.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.StripeAspNetProject.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.StripeAspNetProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.build.StripeAspNetProject.props
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.StripeAspNetProject.props
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.StripeAspNetProject.props
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAs.6D97699E.Up2Date
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/refint/StripeAspNetProject.dll
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.pdb
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.genruntimeconfig.cache
+/Users/sumitdhawan/Documents/25F JavaScript Frameworks - 01/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/ref/StripeAspNetProject.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/appsettings.Development.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/appsettings.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.staticwebassets.runtime.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.staticwebassets.endpoints.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.deps.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.runtimeconfig.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/StripeAspNetProject.pdb
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/Stripe.net.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Diagnostics.EventLog.Messages.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.csproj.AssemblyReference.cache
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.AssemblyInfoInputs.cache
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.AssemblyInfo.cs
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.csproj.CoreCompileInputs.cache
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/scopedcss/bundle/StripeAspNetProject.styles.css
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/0jzg193k1x-geu28o87t2.gz
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/6c9h4d8efr-7z36y9blde.gz
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/lyq2lyiz4w-j6natef9y5.gz
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/j8h4xjljlf-xs6n0zysvc.gz
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.build.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.development.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.StripeAspNetProject.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.StripeAspNetProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.build.StripeAspNetProject.props
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.StripeAspNetProject.props
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.StripeAspNetProject.props
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAs.6D97699E.Up2Date
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/refint/StripeAspNetProject.dll
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.pdb
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/StripeAspNetProject.genruntimeconfig.cache
+/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/ref/StripeAspNetProject.dll

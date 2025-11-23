@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buy Now</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>My Product</h1>
+        <p class="price">$19.99</p>
+
+        <button id="buyBtn">Buy Now</button>
+    </div>
+
+    <script>
+        document.getElementById("buyBtn").onclick = () => {
+            fetch("/api/checkout/create-checkout-session", {
+                method: "POST"
+            })
+            .then(res => res.json())
+            .then(data => {
+                window.location.href = data.url;
+            });
+        };
+    </script>
+
+</body>
+</html>

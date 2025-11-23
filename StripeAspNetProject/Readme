@@ -1,0 +1,67 @@
+# Simple Stripe Checkout Integration Guide
+
+This guide explains how to integrate **Stripe API** into a **simple single-page website** to create a "Buy Now" button for payments. It is beginner-friendly and uses a minimal backend.
+
+---
+
+## 🚀 Features
+
+- Accept payments using Stripe Checkout
+- Minimal frontend (HTML + JS)
+- Backend to create Stripe Checkout sessions
+- Redirects to success and cancel pages after payment
+
+---
+
+## 🛠 Prerequisites
+
+1. **Stripe account**: [Sign up here](https://stripe.com)  
+2. **Stripe API Keys**: Found in your Stripe Dashboard → Developers → API keys  
+   - Secret Key → used on the backend  
+   - Publishable Key → used on the frontend (if using Stripe Elements)  
+3. **A server/backend environment**: Could be Node.js, ASP.NET Core, PHP, Python, etc.  
+4. **Basic HTML/JS knowledge**  
+
+---
+
+## 1️⃣ Basic Flow of Stripe Checkout
+
+1. User clicks **Buy Now** on your webpage.  
+2. Browser calls your backend (e.g., `/create-checkout-session`) to create a **Checkout Session**.  
+3. Backend uses **Stripe Secret Key** to call the Stripe API and create a session:  
+   - Define product name, price, currency, and quantity  
+   - Set success/cancel URLs  
+4. Stripe returns a **session URL**.  
+5. Frontend redirects the user to the Stripe-hosted checkout page.  
+6. After payment, user is redirected back to success or cancel page.
+
+---
+
+## 2️⃣ Frontend Implementation (HTML + JS)
+
+Example of a minimal HTML page:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buy Now</title>
+</head>
+<body>
+    <h1>My Product</h1>
+    <p>Price: $19.99</p>
+
+    <button id="buyBtn">Buy Now</button>
+
+    <script>
+        document.getElementById("buyBtn").onclick = () => {
+            fetch("/create-checkout-session", { method: "POST" })
+            .then(res => res.json())
+            .then(data => {
+                // Redirect to Stripe Checkout
+                window.location.href = data.url;
+            });
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "M5mbKSYiY9cLI10tFqvgyZMMz6VlRs2t/6k4wBfib/U=",
+  "Source": "StripeAspNetProject",
+  "BasePath": "_content/StripeAspNetProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StripeAspNetProject/wwwroot",
+      "Source": "StripeAspNetProject",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/",
+      "BasePath": "_content/StripeAspNetProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/0jzg193k1x-geu28o87t2.gz",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "cancel#[.{fingerprint=geu28o87t2}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/cancel.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ns9mj8z7oh",
+      "Integrity": "6SGlyphifYj3q8Sms3HVwB/kpu6Lc1ci4O/4PQgOgoU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/cancel.html"
+    },
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/6c9h4d8efr-7z36y9blde.gz",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "index#[.{fingerprint=7z36y9blde}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "17sljhruzn",
+      "Integrity": "/YjMx7zFT59ujFCsvvXhjTbCoSNN+O6YMb0yBvJqssw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/j8h4xjljlf-xs6n0zysvc.gz",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "success#[.{fingerprint=xs6n0zysvc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/success.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3ufjgy5euh",
+      "Integrity": "635GU3LxEX5K1jkFBnCOtNzCaAt9hcoXrkcuYU77z2U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/success.html"
+    },
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/lyq2lyiz4w-j6natef9y5.gz",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "styles#[.{fingerprint=j6natef9y5}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "smzi6trz91",
+      "Integrity": "5E6CQbZcwmMuhZjwtvMdURF4bHbeZJmagt2vsSO5brI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/styles.css"
+    },
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/cancel.html",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "cancel#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "geu28o87t2",
+      "Integrity": "aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/cancel.html"
+    },
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/index.html",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7z36y9blde",
+      "Integrity": "XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/styles.css",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j6natef9y5",
+      "Integrity": "2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    },
+    {
+      "Identity": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/success.html",
+      "SourceId": "StripeAspNetProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/",
+      "BasePath": "_content/StripeAspNetProject",
+      "RelativePath": "success#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xs6n0zysvc",
+      "Integrity": "MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/success.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "cancel.geu28o87t2.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/0jzg193k1x-geu28o87t2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004629629630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SGlyphifYj3q8Sms3HVwB/kpu6Lc1ci4O/4PQgOgoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "geu28o87t2"
+        },
+        {
+          "Name": "label",
+          "Value": "cancel.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo="
+        }
+      ]
+    },
+    {
+      "Route": "cancel.geu28o87t2.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/cancel.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "geu28o87t2"
+        },
+        {
+          "Name": "label",
+          "Value": "cancel.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo="
+        }
+      ]
+    },
+    {
+      "Route": "cancel.geu28o87t2.html.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/0jzg193k1x-geu28o87t2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SGlyphifYj3q8Sms3HVwB/kpu6Lc1ci4O/4PQgOgoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "geu28o87t2"
+        },
+        {
+          "Name": "label",
+          "Value": "cancel.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SGlyphifYj3q8Sms3HVwB/kpu6Lc1ci4O/4PQgOgoU="
+        }
+      ]
+    },
+    {
+      "Route": "cancel.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/0jzg193k1x-geu28o87t2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004629629630"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SGlyphifYj3q8Sms3HVwB/kpu6Lc1ci4O/4PQgOgoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo="
+        }
+      ]
+    },
+    {
+      "Route": "cancel.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/cancel.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aK5/Ew3zLzFHq/UmEcjOcB5L02u+VQ7Pe79Xt2FC/mo="
+        }
+      ]
+    },
+    {
+      "Route": "cancel.html.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/0jzg193k1x-geu28o87t2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SGlyphifYj3q8Sms3HVwB/kpu6Lc1ci4O/4PQgOgoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:32:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SGlyphifYj3q8Sms3HVwB/kpu6Lc1ci4O/4PQgOgoU="
+        }
+      ]
+    },
+    {
+      "Route": "index.7z36y9blde.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/6c9h4d8efr-7z36y9blde.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002840909091"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/YjMx7zFT59ujFCsvvXhjTbCoSNN+O6YMb0yBvJqssw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z36y9blde"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI="
+        }
+      ]
+    },
+    {
+      "Route": "index.7z36y9blde.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z36y9blde"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI="
+        }
+      ]
+    },
+    {
+      "Route": "index.7z36y9blde.html.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/6c9h4d8efr-7z36y9blde.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/YjMx7zFT59ujFCsvvXhjTbCoSNN+O6YMb0yBvJqssw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z36y9blde"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/YjMx7zFT59ujFCsvvXhjTbCoSNN+O6YMb0yBvJqssw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/6c9h4d8efr-7z36y9blde.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002840909091"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/YjMx7zFT59ujFCsvvXhjTbCoSNN+O6YMb0yBvJqssw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZB+O67FHWjEYQaTtZdJ53YUaQLPVSivvaTFrPdzKxI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/6c9h4d8efr-7z36y9blde.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/YjMx7zFT59ujFCsvvXhjTbCoSNN+O6YMb0yBvJqssw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/YjMx7zFT59ujFCsvvXhjTbCoSNN+O6YMb0yBvJqssw="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/lyq2lyiz4w-j6natef9y5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003048780488"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6CQbZcwmMuhZjwtvMdURF4bHbeZJmagt2vsSO5brI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/lyq2lyiz4w-j6natef9y5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6CQbZcwmMuhZjwtvMdURF4bHbeZJmagt2vsSO5brI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6CQbZcwmMuhZjwtvMdURF4bHbeZJmagt2vsSO5brI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.j6natef9y5.css",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/lyq2lyiz4w-j6natef9y5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003048780488"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6CQbZcwmMuhZjwtvMdURF4bHbeZJmagt2vsSO5brI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j6natef9y5"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.j6natef9y5.css",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "644"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j6natef9y5"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2/ibeAJZvjYiq/fJZqbr1JAaGTBphXY5uZN7W5COtrs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.j6natef9y5.css.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/lyq2lyiz4w-j6natef9y5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6CQbZcwmMuhZjwtvMdURF4bHbeZJmagt2vsSO5brI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j6natef9y5"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6CQbZcwmMuhZjwtvMdURF4bHbeZJmagt2vsSO5brI="
+        }
+      ]
+    },
+    {
+      "Route": "success.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/j8h4xjljlf-xs6n0zysvc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004366812227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"635GU3LxEX5K1jkFBnCOtNzCaAt9hcoXrkcuYU77z2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k="
+        }
+      ]
+    },
+    {
+      "Route": "success.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/success.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k="
+        }
+      ]
+    },
+    {
+      "Route": "success.html.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/j8h4xjljlf-xs6n0zysvc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"635GU3LxEX5K1jkFBnCOtNzCaAt9hcoXrkcuYU77z2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-635GU3LxEX5K1jkFBnCOtNzCaAt9hcoXrkcuYU77z2U="
+        }
+      ]
+    },
+    {
+      "Route": "success.xs6n0zysvc.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/j8h4xjljlf-xs6n0zysvc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004366812227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"635GU3LxEX5K1jkFBnCOtNzCaAt9hcoXrkcuYU77z2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xs6n0zysvc"
+        },
+        {
+          "Name": "label",
+          "Value": "success.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k="
+        }
+      ]
+    },
+    {
+      "Route": "success.xs6n0zysvc.html",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/wwwroot/success.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "321"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xs6n0zysvc"
+        },
+        {
+          "Name": "label",
+          "Value": "success.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ6zZYfq+4oVMiTfaZ+GtZKN8VR4z+zBtZ984zje90k="
+        }
+      ]
+    },
+    {
+      "Route": "success.xs6n0zysvc.html.gz",
+      "AssetFile": "/Users/sumitdhawan/Documents/GroupAssignment/StripeAspNetProject/obj/Debug/net9.0/compressed/j8h4xjljlf-xs6n0zysvc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"635GU3LxEX5K1jkFBnCOtNzCaAt9hcoXrkcuYU77z2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Nov 2025 19:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xs6n0zysvc"
+        },
+        {
+          "Name": "label",
+          "Value": "success.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-635GU3LxEX5K1jkFBnCOtNzCaAt9hcoXrkcuYU77z2U="
+        }
+      ]
+    }
+  ]
+}
